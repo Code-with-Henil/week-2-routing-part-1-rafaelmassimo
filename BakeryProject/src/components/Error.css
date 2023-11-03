@@ -1,0 +1,21 @@
+
+
+
+.alert-box {
+    width: 300px;
+    height: 300px;
+    color: #fd8686;
+    background: #702626;
+    flex-direction: row;
+    display: flex;
+    border: 3px solid red;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 20px 1px red;
+}
+
+.alert p {
+    letter-spacing: 1px;
+    font-weight: bold;
+}
